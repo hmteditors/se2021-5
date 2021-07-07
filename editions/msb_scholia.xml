@@ -58,6 +58,36 @@
               </p>
             </div>
           </div> 
+
+           <div n="53v_2" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="2">β</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.110@τέκτων</p>
+            </div>
+            <div n="comment">
+              <p><num value="2">β</num> πᾶς τεχνίτης: ὅθεν <q>λιθοτέκτονες</q> καὶ <q>χρυσοτέκτονες</q>⁑
+              </p>
+            </div>
+          </div> 
+
+                     <div n="53v_3" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="3">γ</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.111@ἐπέθηκε</p>
+            </div>
+            <div n="comment">
+              <p>ἤτοι ἐπάνω ἔθηκεν: κορώνη δὲ πᾶν τὸ ἐπικαμπὲς. ἀπὸ μεταφορᾶς τοῦ ζώου⁑
+              </p>
+            </div>
+          </div> 
         
         </body>
       </text>
