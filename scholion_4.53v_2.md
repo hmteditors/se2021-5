@@ -22,4 +22,4 @@ And having worked them, the horn-polishing artisan fitted them together.
 
 ---
 
->  #2 [τέκτων stands for] every artisan; from which [word we get] stone-worker and gold-worker ⁑
+>  #2 [τέκτων stands for] every artisan; from which [word we get] "stone-worker" and "gold-worker" ⁑
