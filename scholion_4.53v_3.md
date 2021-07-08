@@ -22,4 +22,4 @@ And having smoothed the whole thing well, he added at the tip (?) a "crow" of go
 
 ---
 
->  Surely he added it on the upper part; and the whole curve is the "crow". By analogy with the animal ⁑
+> Surely he added it on the upper part; and the whole curve is the "crow". By analogy with the animal ⁑
