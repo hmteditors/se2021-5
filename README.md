@@ -7,5 +7,5 @@ The URL to this GitHub repository is: <https://github.com/hmteditors/se2021-5>
 
 - The instructions from Summer 2021 are at <https://homermultitext.github.io/hmt-se2021/>.
 - Start with the [Technical Requirements](https://homermultitext.github.io/hmt-se2021/tech/) page.
-- The Image Citation Tool link for the current folio (Venetus B ff. 50v-51r) is [here](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_50v_51r).
+- The Image Citation Tool link for the current folio (Venetus B ff. 53v-54r) is [here](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_53v_54r).
 - The [Workflow page](https://homermultitext.github.io/hmt-se2021/workflow/) should be a reference for how to procede.
