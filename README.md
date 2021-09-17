@@ -1,6 +1,8 @@
 # se2021-5
 Team 5 at HMT summer experience 2021
 
+The URL to this GitHub repository is: <https://github.com/hmteditors/se2021-5>
+
 ## Instructions
 
 - The instructions from Summer 2021 are at <https://homermultitext.github.io/hmt-se2021/>.
